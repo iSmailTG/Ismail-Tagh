@@ -3,7 +3,8 @@
     "listing": "/index.html",
     "items": [
       "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/welcome/index.html",
+      "/posts/Build_A_Large_Language_Model_Chapter_1_.html"
     ]
   }
 ]
